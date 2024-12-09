@@ -1,7 +1,11 @@
 button{
     background-color: blue;
     height: 50px;
-    width: 300px;
+    width: 250px;
     color: aliceblue;
 
+}
+form{
+    background-color: beige;
+    width: 263px;
 }
